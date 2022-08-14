@@ -2,6 +2,6 @@
 
 - ## Usando Phyton
 - ## Pandas
-- ## Djang
+- ## Django
 - ## SQLite3
 - ## E diversas ferramentas para o uso do Data Science
