@@ -9,4 +9,4 @@
   - ## Django
   - ## Consumo de libs
   - ## pyautogui
-  -- ## Dentre diversas outras ferramentas da área
+  - ## Dentre diversas outras ferramentas da área
